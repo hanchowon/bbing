@@ -1,0 +1,5 @@
+# Google Cloud Run 배포 및 Python 서버를 위한 핵심 의존성 패키지
+Flask>=3.0.0
+flask-cors>=4.0.0
+gunicorn>=21.2.0
+
